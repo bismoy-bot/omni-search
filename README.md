@@ -12,7 +12,7 @@
 
 ## ⬇️ Download
 
-**[Download OmniSearch-v1.0.0.apk](releases/OmniSearch-v1.0.0.apk)**
+**[Download OmniSearch-v1.0.0.apk](releases/Omni-Search-v1.0.0.apk)**
 
 ### How to install
 1. Download the APK on your Android phone.
